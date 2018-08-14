@@ -24,14 +24,17 @@ export default class Home extends Component {
       <Row className='show-grid text-center'>
         <Col xs={12} sm={4} className='person-wrapper'>
           <Image src='assets/person-1.jpg' circle className='profile-pic' />
+          <h3>Test</h3>
           <p>fart</p>
         </Col>
         <Col xs={12} sm={4} className='person-wrapper'>
           <Image src='assets/person-1.jpg' circle className='profile-pic' />
+          <h3>Test</h3>
           <p>fart</p>
         </Col>
         <Col xs={12} sm={4} className='person-wrapper'>
           <Image src='assets/person-1.jpg' circle className='profile-pic' />
+          <h3>Test</h3>
           <p>fart</p>
         </Col>
       </Row>
