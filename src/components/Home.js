@@ -15,7 +15,7 @@ export default class Home extends Component {
     return (
       <Grid>
       <Jumbotron>
-        <h2>This WORKS</h2>
+        <h2>Fart</h2>
         <p>Test</p>
         <Link to="/about">
           <Button bsStyle="primary">Learn More</Button>
